@@ -23,6 +23,14 @@ This project includes 3 main parts:
 
   - **stories**: contains each story in the project. I used [storybook](https://storybook.js.org/) framwork to document for the layout 
 
+  - **hooks**: Custom react hooks
+
+  - **lib**: Contains logic related call api
+
+  - **types**: Contains the declaration of the type 
+
+  - **styles**: Contains some styling css
+
 ## Bash
 
 To run source
